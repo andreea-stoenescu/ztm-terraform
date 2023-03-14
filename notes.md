@@ -23,3 +23,7 @@ https://developer.hashicorp.com/terraform/downloads
 ### Windows
 Download the 64bit version and extract the zip.
 Add the terraform binary folder to the PATH.
+
+## Setup VSC
+Install the Terraform extension: HashiCorp Terraform https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform
+
